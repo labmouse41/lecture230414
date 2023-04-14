@@ -7,3 +7,7 @@ FBread::FBread()
 FBread::~FBread()
 {
 }
+
+void FBread::GetUsed()
+{
+}

@@ -131,7 +131,7 @@
     <ClCompile Include="Bread.cpp" />
     <ClCompile Include="Character.cpp" />
     <ClCompile Include="Club.cpp" />
-    <ClCompile Include="FSword.cpp" />
+    <ClCompile Include="Sword.cpp" />
     <ClCompile Include="Gun.cpp" />
     <ClCompile Include="Inventory.cpp" />
     <ClCompile Include="Item.cpp" />
@@ -142,7 +142,7 @@
     <ClInclude Include="Bread.h" />
     <ClInclude Include="Character.h" />
     <ClInclude Include="Club.h" />
-    <ClInclude Include="FSword.h" />
+    <ClInclude Include="Sword.h" />
     <ClInclude Include="Gun.h" />
     <ClInclude Include="Inventory.h" />
     <ClInclude Include="Item.h" />

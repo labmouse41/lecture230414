@@ -6,5 +6,8 @@ class FBread :
 public:
     FBread();
     virtual ~FBread();
+
+    virtual void GetUsed() override;
+
 };
 

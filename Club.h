@@ -5,5 +5,8 @@ class FClub : public FItem
 public:
 	FClub();
 	virtual ~FClub();
+
+	virtual void GetUsed() override;
+
 };
 

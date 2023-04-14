@@ -7,3 +7,7 @@ FItem::FItem()
 FItem::~FItem()
 {
 }
+
+void FItem::GetUsed()
+{
+}

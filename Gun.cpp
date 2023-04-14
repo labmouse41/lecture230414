@@ -7,3 +7,7 @@ FGun::FGun()
 FGun::~FGun()
 {
 }
+
+void FGun::GetUsed()
+{
+}

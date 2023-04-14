@@ -6,5 +6,8 @@ class FBeverage :
 public:
     FBeverage();
     virtual ~FBeverage();
+
+    virtual void GetUsed() override;
+
 };
 

@@ -7,3 +7,7 @@ FClub::FClub()
 FClub::~FClub()
 {
 }
+
+void FClub::GetUsed()
+{
+}

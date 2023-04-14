@@ -27,7 +27,7 @@
     <ClCompile Include="Item.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FSword.cpp">
+    <ClCompile Include="Sword.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Gun.cpp">
@@ -53,7 +53,7 @@
     <ClInclude Include="Item.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="FSword.h">
+    <ClInclude Include="Sword.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Gun.h">
